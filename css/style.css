@@ -115,6 +115,10 @@ a{
 
 }
 
+ .curret-page{
+  color: var(--active-color);
+}
+
 .header-item{
   position: relative;
 }
